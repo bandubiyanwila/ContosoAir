@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/AppInnovation-48479386/GitHub%20Integration%20Bandu/_apis/build/status%2Fbandubiyanwila.ContosoAir?branchName=master)](https://dev.azure.com/AppInnovation-48479386/GitHub%20Integration%20Bandu/_build/latest?definitionId=6&branchName=master)
 
 # Microsoft.Github CI Demo
 
